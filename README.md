@@ -4,7 +4,7 @@ This is a project from Fall 2018 for my CS100 course.  It converts a PPM (color)
 
 To Run: 
 1. Compile image.c and main.c using "gcc -Wall -std=c99 image.c main.c".
-2. Run using "./a.exe (a.out if on Mac) function ppm-file pgm-file", or for example, "./a.exe average image1 image2".
+2. Run using "./a.exe (a.out if on Mac) function ppm-file pgm-file", or for example, "./a.exe average testPPM testPGM".
 
 Credit:
 1. The concept and skeleton of the project such as the main.c runner and image.h files were written and supplied by my professor, Dr. Jingyuan "Alex" Zhang, and the University of Alabama's Computer Science Department.
