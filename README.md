@@ -7,5 +7,5 @@ To Run:
 2. Run using "./a.exe (a.out if on Mac) function ppm-file pgm-file", or for example, "./a.exe average image1 image2".
 
 Credit:
-1. The skeleton of the project such as the main.c runner and image.h files were written and supplied by my professor Dr. Jingyuan "Alex" Zhang and the University of Alabama's Computer Science Department.
+1. The concept and skeleton of the project such as the main.c runner and image.h files were written and supplied by my professor, Dr. Jingyuan "Alex" Zhang, and the University of Alabama's Computer Science Department.
 2. The image.c file was written by myself.
